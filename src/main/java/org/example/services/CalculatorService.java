@@ -19,4 +19,14 @@ public class CalculatorService {
 		return calculator.getNumero1() - calculator.getNumero2();
 	}
 
+	//Metodo para multiplicar
+	public int multiplicar() {
+		return calculator.getNumero1() * calculator.getNumero2();
+	}
+
+	//Metodo para dividir
+	public int dividir() {
+		return calculator.getNumero1() / calculator.getNumero2();
+	}
+
 }
