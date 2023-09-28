@@ -1,0 +1,14 @@
+# Archivos IDE
+*.iml
+*.idea
+*.project
+*.settings
+
+# Archivos de código
+*.class
+*.jar
+*.war
+*.ear
+*.pyc
+*.pyo
+*.DS_Store
